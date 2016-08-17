@@ -12,7 +12,7 @@
  *
  * Contributor(s):
  *
- *      Luc Deschenaux <l.deschenaux@foxel.ch>
+ *      Luc Deschenaux <luc.deschenaux@freesurf.ch>
  *      Alexandre Kraft <a.kraft@foxel.ch>
  *
  *

@@ -7,7 +7,7 @@
  *
  * Author(s):
  *
- *      Luc Deschenaux <l.deschenaux@foxel.ch>
+ *      Luc Deschenaux <luc.deschenaux@freesurf.ch>
  *
  *
  * Contributor(s):
