@@ -10,7 +10,7 @@
 #
 # Author(s):
 #
-#      Luc Deschenaux <l.deschenaux@foxel.ch>
+#      Luc Deschenaux <luc.deschenaux@freesurf.ch>
 #
 #
 # This file is part of the FOXEL project <http://foxel.ch>.
