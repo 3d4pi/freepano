@@ -159,7 +159,8 @@ $(document).on('filesloaded', function(){
     sphere: {
 
       // load visible tiles first, then trigger other tiles loading
-      dynamicTileInit: true,
+      // TODO: fix issue #1
+      dynamicTileInit: false,
 
       // load only visible tiles
       dynamicTileLoading: false,
